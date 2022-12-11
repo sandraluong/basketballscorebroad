@@ -14,3 +14,9 @@
     --text-color2: #ffffff;
 }
 
+body{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--primary-color);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
